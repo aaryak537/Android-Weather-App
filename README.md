@@ -1,2 +1,41 @@
-# Android-Weather-App
-A modern Android Weather App built using Java and XML that provides real-time weather updates, 7-day forecasts, location-based weather, and a clean Design UI using the API.
+# 🌤 Android Weather App
+
+## 📌 Overview
+
+Android Weather App is a modern weather forecasting application built using Java and Android Studio. It provides current weather information, and upcoming weather predictions using real-time weather APIs.
+
+## ✨ Features
+- 🌍 Current location weather
+- 🌡 Current temperature
+- 📅 7-Day Forecast
+- 🌙 Light/Dark Theme
+- 📱  Design UI
+
+## 🛠 Tech Stack
+- Java
+- XML
+- Android Studio
+
+## 📷 Screenshots
+
+(I will Add screenshots here)
+
+
+## 🚀 Installation
+1. Clone the repository
+git clone https://github.com/YourUsername/Android-Weather-App.git
+2. Open Android Studio
+3. Add your OpenWeatherMap API Key
+4. Build and Run
+
+## 📌 Future Improvements
+- Weather alerts
+- Air Quality Index
+- Radar Maps
+- Multiple cities
+- Widget Support
+
+## 👨‍💻 Author
+Aarya Kadam
+
+⭐ If you like this project, don't forget to star the repository!
