@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.weatherapp"
-        minSdk = 35
+        minSdk = 26
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
@@ -34,8 +34,10 @@ android {
 }
 
 dependencies {
+    implementation("com.android.volley:volley:1.2.1")
     implementation(libs.activity.ktx)
     implementation(libs.appcompat)
+    implementation(libs.cardview)
     implementation(libs.constraintlayout)
     implementation(libs.material)
     testImplementation(libs.junit)
