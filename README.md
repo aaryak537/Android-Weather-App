@@ -23,10 +23,10 @@ Android Weather App is a modern weather forecasting application built using Java
 
 ## 🚀 Installation
 1. Clone the repository
-git clone https://github.com/YourUsername/Android-Weather-App.git
-2. Open Android Studio
-3. Add your OpenWeatherMap API Key
-4. Build and Run
+git clone https://github.com/aaryak537/Android-Weather-App.git
+3. Open Android Studio
+4. Add your OpenWeatherMap API Key
+5. Build and Run
 
 ## 📌 Future Improvements
 - Weather alerts
